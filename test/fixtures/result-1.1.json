@@ -1,0 +1,39 @@
+{
+    "schema_version": "1.1",
+    "attribution": { "text": "Checked by snapWONDERS", "url": "https://snapwonders.com/" },
+    "links": {
+        "docs_url": "https://snapwonders.com/developers",
+        "feedback_url": "https://snapwonders.com/developers/feedback?job=550e8400-e29b-41d4-a716-446655440000"
+    },
+    "files": [
+        {
+            "name": "harbour-sunset.jpg",
+            "grade": "D",
+            "confidence": "medium",
+            "exposure_grade": "B",
+            "exposure_confidence": "high",
+            "face_count": 2,
+            "face_count_by_confidence": { "high": 1, "moderate": 0, "low": 1 },
+            "text_region_count": 1,
+            "watermark_flagged": false,
+            "verdicts": {
+                "ai_generation": { "verdict": "possible_aigc" },
+                "c2pa": { "verdict": "valid", "applicable": true, "has_manifest": true, "trusted": false },
+                "findings": [
+                    { "label": "No camera capture metadata present", "severity": "medium" },
+                    { "label": "Editing-software encoder signature (Adobe)", "severity": "medium" },
+                    { "label": "Noise pattern inconsistent with a single capture", "severity": "high" }
+                ]
+            },
+            "assets": [],
+            "vaultify_cta": {
+                "text": "Need to share this privately? Hide it inside another photo or video with snapWONDERS Vaultify.",
+                "url": "https://snapwonders.com/upload/hide"
+            },
+            "vaultify_cta": {
+                "text": "Need to share this privately? Hide it inside another photo or video with snapWONDERS Vaultify.",
+                "url": "https://snapwonders.com/upload/hide"
+            }
+        }
+    ]
+}

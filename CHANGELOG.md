@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1 — 2026-11-21
+
+- README: the banner at the top showed as a broken image (old logo address). It now shows the
+  snapWONDERS Report banner, like the SDK READMEs. No code changes.
+
 ## 0.2.0 — 2026-11-21
 
 - **Newer results (owner 2026-11-20):** any newer `schema_version`, minor too, shows a non-blocking

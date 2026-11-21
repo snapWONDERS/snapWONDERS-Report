@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.snapwonders.com/" target="_blank">
-        <img src="https://snapwonders.com/img/logo/snap-wonders-logo-big.png" width="172" alt="snapWONDERS" />
+        <img src="https://raw.githubusercontent.com/snapWONDERS/snapWONDERS-Report/main/.github/social-preview.jpg" alt="snapWONDERS Report" width="640" />
     </a>
 </p>
 

@@ -1,0 +1,47 @@
+{
+  "name": "@snapwonders/report",
+  "version": "0.3.0",
+  "description": "Draws a snapWONDERS forensic analysis result as a card — a dependency-free web component for the snapWONDERS API.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./model": "./src/model.js"
+  },
+  "files": [
+    "src",
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "prepack": "node scripts/build.mjs"
+  },
+  "keywords": [
+    "snapwonders",
+    "forensics",
+    "image-forensics",
+    "media-analysis",
+    "ai-image-detection",
+    "content-credentials",
+    "c2pa",
+    "web-component",
+    "custom-element",
+    "report"
+  ],
+  "author": "Kenneth Springer @ snapWONDERS <kenneth@snapwonders.com> (https://kennethbspringer.au)",
+  "license": "MIT",
+  "homepage": "https://snapwonders.com/developers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapWONDERS/snapWONDERS-Report.git"
+  },
+  "bugs": {
+    "url": "https://github.com/snapWONDERS/snapWONDERS-Report/issues"
+  }
+}
